@@ -1,6 +1,7 @@
-<h1>Hi, I'm Marijan</h1>
+# Hi, I'm Marijan
 
-<h2 align="left">Entrepreneur, innovation creator & software engineer</h2>
+`CTO and cofounder of TAQ, Entrepreneur,`
+`innovation creator & software engineer`
 
 I am most proud of my entrepreneurial achievement in the recent company TAQ LLC where I implemented multidisciplinary knowledge accumulated over the years. In cooperation with Alma Quattro (JCDecaux Group), the OOH advertising leader, I set-up and implemented a holistic solution for innovative digital advertising and research via WiFi infrastructure. I developed Taqoo PaaS, a robust cloud-based platform with a capacity of handling large amounts of data collected from the field. The solution is implemented, and digital advertising services are being monetized since 2017 as they became a part of the advertising ecosystem that brings value.
 
