@@ -7,7 +7,7 @@ I am most proud of my entrepreneurial achievement in the recent company TAQ LLC 
 
 My most recent project, which lounched recently is a Coffeeshop mobile application, replacing stamp and paper. I developed a Bonus/Loyalty Program for collecting points with real-time update integrated with existing legacy point of sales. Currently, we have more than 6K active users and application has been running for 4 months only. [more info](https://apps.apple.com/gh/app/coffeedream/id1530927007).
 
-- 🔭 I’m currently working on **Mastercard contactless advertising**
+- 🔭 I’m currently working on **Implementing WiFi advertising on coast liners. Customer: Mastercard**
 
 - 🌱 I’m currently learning **Golang**
 
