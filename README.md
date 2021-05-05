@@ -7,15 +7,15 @@ I am most proud of my entrepreneurial achievement in the recent company TAQ LLC 
 
 My most recent project, which lounched recently is a Coffeeshop mobile application, replacing stamp and paper. I developed a Bonus/Loyalty Program for collecting points with real-time update integrated with existing legacy point of sales. Currently, we have more than 6K active users and application has been running for 4 months only. [more info](https://apps.apple.com/gh/app/coffeedream/id1530927007).
 
-- 🔭 I’m currently working on **Coffeedream Loyalty program**
+- 🔭 I’m currently working on **Mastercard contactless advertising**
 
-- 🌱 I’m currently learning **Ruby & RoR**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
-- 💬 Ask me about **Vue, Vuex, Firebase, Flutter MVC**
+- 💬 Ask me about **Vue, Vuex, Firebase, Flutter MVC, Ruby on Rails**
 
-- 📫 How to reach me **marijan.brvar@gmai.com**
+- 📫 How to reach me **marijan.brvar@gmail.com**
 
 </a>
 </p>
