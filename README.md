@@ -11,7 +11,7 @@ My most recent project, which lounched recently is a Coffeeshop mobile applicati
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 👨‍💻 All of my projects are available at [www.marijan.xyz](https://www.marijan.xyz)
 
 - 💬 Ask me about **Vue, Vuex, Firebase, Flutter MVC, Ruby on Rails**
 
