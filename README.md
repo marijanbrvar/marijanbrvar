@@ -3,9 +3,9 @@
 `CTO and cofounder of TAQ, Entrepreneur,`
 `innovation creator & software engineer`
 
-I am most proud of my entrepreneurial achievement in the recent company TAQ LLC where I implemented multidisciplinary knowledge accumulated over the years. In cooperation with Alma Quattro (JCDecaux Group), the OOH advertising leader, I set-up and implemented a holistic solution for innovative digital advertising and research via WiFi infrastructure. I developed Taqoo PaaS, a robust cloud-based platform with a capacity of handling large amounts of data collected from the field. The solution is implemented, and digital advertising services are being monetized since 2017 as they became a part of the advertising ecosystem that brings value.
+I am most proud of my entrepreneurial achievement in the recent company TAQ LLC where I implemented multidisciplinary knowledge accumulated over the years. In cooperation with Alma Quattro (JCDecaux Group), the OOH advertising leader, I set-up and implemented a holistic solution for innovative digital advertising and research via WiFi infrastructure. I developed Taqoo PaaS, a robust cloud-based platform with a capacity of handling large amounts of data collected from the field in real-time. The solution is implemented, and digital advertising services are being monetized since 2017 as they became a part of the advertising ecosystem that brings value.
 
-My most recent project, which goes live recently and worth mentioning, is a mobile application, replacing stamped paper collecting point cards with real-time update integrated with point of sales. Currently, we have more than 5K active users. [more info](https://apps.apple.com/gh/app/coffeedream/id1530927007).
+My most recent project, which lounched recently is a Coffeeshop mobile application, replacing stamp and paper. I developed a Bonus/Loyalty Program for collecting points with real-time update integrated with existing legacy point of sales. Currently, we have more than 6K active users and application has been running for 4 months only. [more info](https://apps.apple.com/gh/app/coffeedream/id1530927007).
 
 - 🔭 I’m currently working on **Coffeedream Loyalty program**
 
