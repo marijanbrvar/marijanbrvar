@@ -1,5 +1,5 @@
 # Hi, I'm Marijan
-`Full-Stack Developer
+`Full-Stack Developer`
 `CTO and cofounder of TAQ, Entrepreneur,`
 `innovation creator & software engineer`
 
