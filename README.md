@@ -1,5 +1,8 @@
-# Hi, I'm Marijan
+# Hello
 
+**my name is Marijan** [m AH - r ee - y ah n]
+
+`Full-Stack Developer`
 `CTO and cofounder of TAQ, Entrepreneur,`
 `innovation creator & software engineer`
 
